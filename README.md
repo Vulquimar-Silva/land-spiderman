@@ -1,4 +1,4 @@
-# Landing page Spiderman - Javascript, Sass, Motion
+# Landing page Spiderman - Javascript, Css/Sass, Motion
 
 - obs: ainda falta implementar algumas features
 
